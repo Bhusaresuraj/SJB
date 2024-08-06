@@ -1,0 +1,15 @@
+
+
+body{
+    background-color: maroon;
+}
+h1{
+    color:bisque;
+    min-width: 90cqmax;
+    margin-inline-start: 90cqmax;
+}
+h2{
+    color: red;
+    min-width: 0cqmax;
+    margin-inline-start: 5000000cqmax;
+}
